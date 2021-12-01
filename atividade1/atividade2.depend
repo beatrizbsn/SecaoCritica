@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638158974 source:c:\users\biabs\desktop\prog con dist\atividade2\main.c
+	<stdio.h>
+	<pthread.h>
+
+1638383328 source:c:\users\biabs\desktop\atividade2\atividade1\main.c
+	<stdio.h>
+	<pthread.h>
+

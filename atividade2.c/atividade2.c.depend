@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638381548 source:c:\users\biabs\desktop\atividade2\atividade2.c\main.c
+	<stdlib.h>
+	<omp.h>
+	<stdio.h>
+	<time.h>
+	<assert.h>
+
